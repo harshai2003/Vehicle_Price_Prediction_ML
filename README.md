@@ -47,12 +47,3 @@ The goal of this project is to assist buyers and sellers in determining a fair m
 - Decision Tree Regressor  
 - Random Forest Regressor  
 
-
-
-
----
-
-## 👨‍💻 Author  
-Developed by **[Your Name]**  
-- 🌐 GitHub: [yourusername](https://github.com/yourusername)  
-- 🔗 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
