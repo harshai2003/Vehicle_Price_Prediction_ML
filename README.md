@@ -32,12 +32,12 @@ The goal of this project is to assist buyers and sellers in determining a fair m
 ---
 
 ## 🛠 Tech Stack  
-- **Programming Language**: Python 🐍  
+- **Programming Language**: Python 
 - **Libraries/Frameworks**:  
   - Data Processing → Pandas, NumPy  
   - Visualization → Matplotlib, Seaborn  
   - Machine Learning → Scikit-learn  
-  - Model Deployment → Flask / Streamlit  
+  - Model Deployment → Streamlit  
 - **Version Control**: Git & GitHub  
 
 ---
@@ -46,66 +46,9 @@ The goal of this project is to assist buyers and sellers in determining a fair m
 - Linear Regression  
 - Decision Tree Regressor  
 - Random Forest Regressor  
-- Gradient Boosting Regressor  
-- XGBoost Regressor  
 
-The best model is selected based on evaluation metrics such as **R² Score, MAE, MSE, RMSE**.  
 
----
 
-## 🚀 Installation & Usage  
-
-### 1️⃣ Clone Repository  
-```bash
-git clone https://github.com/yourusername/vehicle-price-prediction.git
-cd vehicle-price-prediction
-```
-
-### 2️⃣ Install Dependencies  
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run Jupyter Notebook (for training & testing)  
-```bash
-jupyter notebook Vehicle_Price_Prediction.ipynb
-```
-
-### 4️⃣ Run Web Application  
-If deployed using **Flask**:  
-```bash
-python app.py
-```
-Visit: `http://127.0.0.1:5000/`  
-
-If deployed using **Streamlit**:  
-```bash
-streamlit run app.py
-```
-
----
-
-## 📈 Results  
-- Achieved **R² Score ~ 0.85+** (depending on dataset & features).  
-- Random Forest and Gradient Boosting performed best among tested models.  
-
----
-
-## 📌 Future Enhancements  
-- Integrate Deep Learning models for better predictions.  
-- Create a mobile-friendly UI.  
-- Use live data scraping from vehicle listing platforms.  
-- Add Explainable AI (XAI) for better model interpretability.  
-
----
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to open an **issue** or submit a **pull request**.  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use and modify it.  
 
 ---
 
